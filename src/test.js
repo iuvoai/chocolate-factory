@@ -1,5 +1,7 @@
+var marmota;
 var ciocolate;
-var marmota = new Marmota();
+marmota = new Marmota();
+
 { manca(); let iarba_verde = 10; }
 ciocolate = getCiocolate();
 
